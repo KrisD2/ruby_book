@@ -1,0 +1,1 @@
+(1..10).to_a.each { |x| puts x}
